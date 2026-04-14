@@ -1,0 +1,22 @@
+{
+  "base_price": 2995,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "email",
+  "config_description": "--Reach Independent Inboxes--\n\nWeekly verified, high-deliverability emails.\n\nOnly for established, independent restaurants (or micro-chains) \u2013 large chain enterprises excluded.\n\nWeekly email verification and detailed analysis via our proprietary infrastructure.\n\nBusiness activity validated by an \"Active Heartbeat\" signal.",
+  "config_name": "Restaurant Verified Email Access in Chicago, Illinois, US",
+  "export_job_id": "25748f77-5f2d-47f9-9f3b-751a3c0ced66",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 658009,
+  "location_name": "Chicago",
+  "location_type": "city",
+  "repo_name": "restaurant-verified-email-access-in-chicago-illinois-us-sample-658009",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/658009/beamstation_658009_restaurants-us-il_SAMPLE_DIST.csv",
+  "sample_pct": 9.97,
+  "sample_records": 229,
+  "sample_sha256": "cb165d52667758e09c50106d6a55398c43156830993b0edcafd69a03d193478f",
+  "sample_size_bytes": 946994,
+  "total_records": 2297,
+  "updated_at": "2026-04-07T23:54:30.754219+00:00"
+}
