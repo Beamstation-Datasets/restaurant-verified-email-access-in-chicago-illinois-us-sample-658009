@@ -1,12 +1,12 @@
 {
-  "export_job_id": "6931ac7b-3db8-433b-937b-4da9077fa7d3",
+  "export_job_id": "832f9562-5bbc-403c-bbc3-a8b3804975d7",
   "id_short": 658009,
-  "published_at": "2026-04-18T19:38:11Z",
+  "published_at": "2026-04-23T07:03:12Z",
   "repo_name": "restaurant-verified-email-access-in-chicago-illinois-us-sample-658009",
   "sample_asset_name": "beamstation_658009_restaurants-us-il_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/658009/beamstation_658009_restaurants-us-il_SAMPLE_DIST.csv",
-  "sample_records": 225,
-  "sample_sha256": "b7935852d0b765b68e37fe98977a8faac49fde1d9d9072da84dad73d7cfa2742",
-  "sample_size_bytes": 925051,
-  "total_records": 2259
+  "sample_records": 205,
+  "sample_sha256": "e2a17c81955d79e9aa032fb8d816a9b1e98f963019d20118deec660967efad5f",
+  "sample_size_bytes": 840693,
+  "total_records": 2059
 }
