@@ -6,7 +6,7 @@
   "config_category": "email",
   "config_description": "--Reach Independent Inboxes--\n\nWeekly verified, high-deliverability emails.\n\nOnly for established, independent restaurants (or micro-chains) \u2013 large chain enterprises excluded.\n\nWeekly email verification and detailed analysis via our proprietary infrastructure.\n\nBusiness activity validated by an \"Active Heartbeat\" signal.",
   "config_name": "Restaurant Verified Email Access in Chicago, Illinois, US",
-  "export_job_id": "6931ac7b-3db8-433b-937b-4da9077fa7d3",
+  "export_job_id": "832f9562-5bbc-403c-bbc3-a8b3804975d7",
   "github_org": "Beamstation-Datasets",
   "id_short": 658009,
   "location_name": "Chicago",
@@ -14,9 +14,9 @@
   "repo_name": "restaurant-verified-email-access-in-chicago-illinois-us-sample-658009",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/658009/beamstation_658009_restaurants-us-il_SAMPLE_DIST.csv",
   "sample_pct": 9.96,
-  "sample_records": 225,
-  "sample_sha256": "b7935852d0b765b68e37fe98977a8faac49fde1d9d9072da84dad73d7cfa2742",
-  "sample_size_bytes": 925051,
-  "total_records": 2259,
-  "updated_at": "2026-04-15T05:38:00.979297+00:00"
+  "sample_records": 205,
+  "sample_sha256": "e2a17c81955d79e9aa032fb8d816a9b1e98f963019d20118deec660967efad5f",
+  "sample_size_bytes": 840693,
+  "total_records": 2059,
+  "updated_at": "2026-04-22T11:25:46.561282+00:00"
 }
