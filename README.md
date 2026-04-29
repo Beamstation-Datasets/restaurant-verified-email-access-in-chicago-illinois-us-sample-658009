@@ -1,6 +1,6 @@
 # Restaurant Verified Email Access in Chicago, Illinois, US
 
-> Free BeamStation sample export with 205 rows and masked direct-contact fields.
+> Free BeamStation sample export with 174 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `658009` |
 | Location | Chicago |
 | Category | Restaurants |
-| Full dataset size | 2,059 records |
-| Free sample size | 205 records (9.96%) |
-| Last export | 2026-04-22T11:25:46.561282+00:00 |
+| Full dataset size | 1,747 records |
+| Free sample size | 174 records (9.96%) |
+| Last export | 2026-04-29T12:31:58.880585+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-verified-email-access-in-chicago-illinois-us-sample-658009/releases/download/sample-latest/beamstation_658009_restaurants-us-il_SAMPLE_DIST.csv) |
 
 ## What is in this sample
